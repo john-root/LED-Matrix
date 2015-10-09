@@ -5,7 +5,7 @@
 ###A few things that i need to work out and change are the following.
 
 
- Addressing each (0,0) co-ordinate pixel as a number, so (0,0) would be pixel one.
+ Addressing each (0,0) co-ordinate pixel as a number, so (0,0) would be pixel (1).
 
  Being able to turn the LED's off/reset them in one go---Bearing in mind there is 96 of them.
 
