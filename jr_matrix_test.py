@@ -3,6 +3,9 @@ from neopixel import *
 import skywriter
 import signal
 
+grid_width=8
+grid_height=5
+
 # LED strip configuration:
 LED_COUNT      = 96      # Number of LED pixels.
 LED_PIN        = 18      # GPIO pin connected to the pixels (must support PWM!).
